@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default funtion Poster()  {
+export default function Poster()  {
     return (
         <div>
         <p>Wanted Person.</p>
